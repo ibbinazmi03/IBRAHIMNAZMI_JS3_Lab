@@ -1,4 +1,4 @@
-// Search functionality
+ // Search functionality
 let inputCity = document.getElementById('search');
 
 inputCity.addEventListener('keypress', ( e ) => {
